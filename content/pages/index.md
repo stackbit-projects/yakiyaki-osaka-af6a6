@@ -56,7 +56,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: メニュー
-    subtitle: What I do
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
