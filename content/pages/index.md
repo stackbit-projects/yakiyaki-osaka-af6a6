@@ -7,7 +7,7 @@ sections:
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
     actions:
-      - label: Contact Me
+      - label: 予約する
         url: /contact
         style: primary
     image: images/s_000g.jpg
