@@ -87,7 +87,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-2.svg
+        image: images/a5f0b86b738c029e1a73d58a658463a0.jpg
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
